@@ -10,7 +10,7 @@
     "build": "vite build",
     "preview": "vite preview",
     "lint": "eslint .",
-    "test": "node --test server/*.test.js server/test.js",
+    "test": "node --test server/*.test.js src/services/*.test.js",
     "dev:client": "vite --host 0.0.0.0"
   },
   "dependencies": {
