@@ -58,3 +58,9 @@ Percentual de usuários que estabelecem ao menos uma conexão social recíproca 
 - Criar playlists e adicionar músicas.
 - Consultar a página **Sobre o site** e a proposta CitizenTech.
 - Testar a API com `npm test`.
+
+## IMPORTANTE
+
+Por algum motivo, não está sendo possível commitar o node, então será necessário instalar manualmente com:
+`npm install`
+`npm run dev`
